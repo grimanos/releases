@@ -27,7 +27,7 @@ if [[ "${INIT}" == "true" ]];
 then
     echo "- Initialising OTA dir for ${1}"
 else
-    echo "- Generating LineageOS OTA for ${1}"
+    echo "- Generating Arrow0S OTA for ${1}"
 fi
 
 echo "-- Writing metatada in ${META}"
