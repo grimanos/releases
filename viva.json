@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Grimanos",
+        "oem": "Xiaomi",
+        "device": "Redmi Note 11 Pro 4G",
+        "filename": "Arrow-v13.1-viva-UNOFFICIAL-20230531-GAPPS.zip",
+        "download": "https://sourceforge.net/projects/ricedroid/files/viva/20230531.x/Arrow-v13.1-viva-UNOFFICIAL-20230531-GAPPS.zip/download",
+        "timestamp": 1685502815,
+        "md5": "9917e3bfaac421f90d865752781f571d",
+        "sha256": "5369783697bc9410703932a25f1de5c7d63a565e2f8513bd0fd8cc3aa10d01d6",
+        "size": 1299034963,
+        "version": "20230531.20230531",
+        "buildtype": "UNOFFICIAL",
+        "forum": "https://t.me/vivaaosp",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/vivaaosp",
+        "dt": "https://github.com/xiaomi-mt6781-devs/android_device_xiaomi_viva",
+        "common-dt": "",
+        "kernel": "https://github.com/xiaomi-mt6781-devs/android_device_xiaomi_viva-kernel"
+    }
+  ]
+}
