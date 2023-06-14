@@ -17,12 +17,12 @@
         "firmware": "",
         "modem": "",
         "bootloader": "",
-        "recovery": "",
+        "recovery": "https://github.com/Emiferpro/releases/releases/download/''/boot.img",
         "paypal": "",
-        "telegram": "",
-        "dt": "",
+        "telegram": "https://t.me/vivaaosp",
+        "dt": "https://github.com/xiaomi-mt6781-devs/android_device_xiaomi_viva",
         "common-dt": "",
-        "kernel": ""
+        "kernel": "https://github.com/xiaomi-mt6781-devs/android_device_xiaomi_viva-kernel"
     }
   ]
 }
