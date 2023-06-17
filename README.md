@@ -1,4 +1,4 @@
-# ArrowOS OTA setup for viva
+# crDroid OTA setup for viva
 
 [![Downloads](https://img.shields.io/github/downloads/grimanos/releases/total?style=for-the-badge)](https://github.com/grimanos/releases/releases)
 
