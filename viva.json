@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1700245788,
-      "filename": crDroidAndroid-13.0-20231117-viva-v9.11.zip,
-      "id": 3b7233bfb410390e46698459d1d81f27a83d81473b031a5fbd910f5ae02e193f,
+      "datetime": 1701115028,
+      "filename": crDroidAndroid-13.0-20231127-viva-v9.11.zip,
+      "id": 9c5208df7c6dc80d06e3d80cf6f6ec461c651a428b6a5f3bfe1033cb323c903b,
       "romtype": "Community",
-      "size": 1473612877,
-      "url": "https://github.com/grimanos/releases/releases/download/1700245788/crDroidAndroid-13.0-20231117-viva-v9.11.zip",
+      "size": 1473630034,
+      "url": "https://github.com/grimanos/releases/releases/download/1701115028/crDroidAndroid-13.0-20231127-viva-v9.11.zip",
       "version": "13"
     }
   ]
