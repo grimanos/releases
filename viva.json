@@ -1,23 +1,28 @@
 {
   "response": [
     {
-      "error": false,
-      "version": "13",
-      "url": "https://github.com/grimanos/releases/releases/download/1701340062/crDroidAndroid-13.0-20231130-viva-v9.11.zip"
-      "github_releases_url": "https://github.com/grimanos/releases/releases/download/1701340062/crDroidAndroid-13.0-20231130-viva-v9.11.zip",
-    "datetime": 1701340062,
-      "filehash": "06e8f3c262129f7eef0e389467e6dc3e",
-      "filename": "crDroidAndroid-13.0-20231130-viva-v9.11.zip",
-      "id": "af61147624164194ec4227c8334af9f5af61147624164194ec4227c8334af9f5",
-      "size": 1473620968,
-      "maintainers": [
-        {
-          "github_username": "Grimanos",
-          "name": "Grimanos"
-        }
-        ],
-      "website_url": "https://crdroid.net/",
-      "forum_url": "https://t.me/vivaaosp"
+      "maintainer": "Grimanos",
+        "oem": "Xiaomi",
+        "device": "Redmi Note 11 Pro",
+        "filename": "crDroidAndroid-13.0-20231130-viva-v9.11.zip",
+        "download": "https://github.com/grimanos/releases/releases/download/1701340062/crDroidAndroid-13.0-20231130-viva-v9.11.zip",
+        "timestamp": 1701340062,
+        "md5": "06e8f3c262129f7eef0e389467e6dc3e",
+        "sha256": "934d898e4bd7eb2d24048671de650bd2324f9f6af553152f475697a0ef08b9f8",
+        "size": 1473620968,
+        "version": "13.0",
+        "buildtype": "Monthly",
+        "forum": "https://t.me/vivaaosp",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "https://github.com/grimanos/releases/releases/download/1701340062/boot.img",
+        "paypal": "",
+        "telegram": "https://t.me/vivaaosp",
+        "dt": "https://github.com/xiaomi-mt6781-devs/android_device_xiaomi_viva",
+        "common-dt": "",
+        "kernel": "https://github.com/xiaomi-mt6781-devs/android_device_xiaomi_viva-kernel"
     }
   ]
 }
